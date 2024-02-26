@@ -1,5 +1,5 @@
 {
-	"name": "@directus-labs/dark-terminal",
+	"name": "@directus-labs/dark-terminal-theme",
 	"description": "A dark theme emulating a retro green terminal.",
 	"icon": "extension",
 	"version": "1.0.0",
