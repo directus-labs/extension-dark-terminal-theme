@@ -2,14 +2,16 @@
 	"name": "@directus-labs/dark-terminal-theme",
 	"description": "A dark theme emulating a retro green terminal.",
 	"icon": "extension",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"directus",
 		"directus-extension",
 		"directus-custom-theme"
 	],
 	"type": "module",
-	"files": ["dist"],
+	"files": [
+		"dist"
+	],
 	"license": "MIT",
 	"directus:extension": {
 		"type": "theme",
